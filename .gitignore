@@ -1,0 +1,9 @@
+venv/
+
+*md
+
+.idea/
+
+__pycache__/
+
+test*
